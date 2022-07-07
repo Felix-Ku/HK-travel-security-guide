@@ -4,6 +4,7 @@ https://www.sb.gov.hk/eng/ota/
 
 ## Sample screenshot
 > :warning: **NOT showing the actual Outbound Travel Alerts**
+> Sample:
 ![screenshot](/screenshot.png)
 
 ## Code
