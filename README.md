@@ -3,8 +3,8 @@ An interactive map written in React, Leaflet and visualize the Outbound Travel A
 https://www.sb.gov.hk/eng/ota/
 
 ## Sample screenshot
-> :warning: **NOT showing the actual Outbound Travel Alerts**
-> Sample:
+> :warning: **The below sample screenshot is just for demo purpose and does not show the current actual Outbound Travel Alerts**
+<br>
 ![screenshot](/screenshot.png)
 
 ## Code
